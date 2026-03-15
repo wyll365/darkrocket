@@ -1,0 +1,1 @@
+{"name": "darkrocket-tauri", "version": "0.1.0", "description": "A Tauri v2 project scaffold like v2rayN.", "main": "src-tauri/index.js", "dependencies": {"tauri": "^1.0.0"}}
